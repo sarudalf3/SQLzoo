@@ -167,6 +167,7 @@ GROUP BY region
 HAVING SUM(area)<= 20000000
 ```
 
+|--|--|
 |Americas | 732240|
 |Middle East | 13403102|
 |South America | 17740392|

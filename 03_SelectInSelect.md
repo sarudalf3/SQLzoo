@@ -191,6 +191,7 @@ WHERE population >
         HERE name = 'United Kingdom')
 ```
 
+|--|
 |France|
 |Germany|
 |Russia|
@@ -225,6 +226,7 @@ SELECT name FROM bbc
     AND region = 'South Asia'
 ```
 
+|--|
 |Bangladesh|
 |India|
 |Pakistan|
