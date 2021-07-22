@@ -153,4 +153,3 @@ WHERE name LIKE '%a%' and name LIKE '%e%' and name LIKE '%i%' and name LIKE '%o%
     AND name NOT LIKE '% %'
 ```
 
-##### *keep trying, knowledge is awesome*  :facepunch:

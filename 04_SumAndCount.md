@@ -92,4 +92,3 @@ WHERE 100000000 <
     (SELECT SUM(population) FROM world y WHERE x.continent=y.continent)
 ```
 
-##### *keep trying, knowledge is awesome*  :facepunch:

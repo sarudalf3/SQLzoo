@@ -35,5 +35,3 @@ SELECT name, area
 FROM world
 WHERE area BETWEEN 200000 AND 250000
 ```
-
-##### *keep trying, knowledge is awesome*  :facepunch:

@@ -108,5 +108,3 @@ SELECT name,
          ELSE 'None' END 
 FROM teacher
 ```
-
-##### *keep trying, knowledge is awesome*  :facepunch:

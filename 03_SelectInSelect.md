@@ -143,5 +143,3 @@ WHERE population >
         FROM world y 
             WHERE x.continent = y.continent AND x.name <> y.name)
 ```
-
-##### *keep trying, knowledge is awesome*  :facepunch:

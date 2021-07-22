@@ -185,5 +185,3 @@ FROM game LEFT JOIN goal ON (id = matchid)
 GROUP BY mdate, matchid, team1,team2
 ORDER BY mdate, matchid, team1, team2
 ```
-
-##### *keep trying, knowledge is awesome*  :facepunch:

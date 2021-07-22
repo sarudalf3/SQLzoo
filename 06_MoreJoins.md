@@ -175,5 +175,3 @@ WHERE movieid IN
     WHERE name='Art Garfunkel')
 AND name <>'Art Garfunkel'
 ```
-
-##### *keep trying, knowledge is awesome*  :facepunch:

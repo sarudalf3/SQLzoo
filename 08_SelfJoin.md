@@ -120,5 +120,3 @@ WHERE r1.stop=(SELECT id FROM stops WHERE name='Craiglockhart')
 ```
 
 Hint [here](https://hackernoon.com/learning-self-join-queries-with-sqlzoo-xc163ue7)
-
-##### *keep trying, knowledge is awesome*  :facepunch:
